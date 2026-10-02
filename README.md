@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Добрый день. Меня зовут Ульяна  
+### Добрый день. Меня зовут Ульяна /  Hello. My name is Uliana
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ### Обо мне / About me  
-### Я начинающий аналитик данных. Прошла профессиональную переподготовку по аналитике и базам данных в информационных системах, владею SQL, Python (pandas, numpy), статистическим анализом и визуализацией данных. До этого работала на фрилансе в дизайне и e-commerce. / Hello. My name is Uliana, and I am a junior data analyst. I have completed professional retraining in data analytics and databases in information systems, and I have proficiency in SQL, Python (pandas, numpy), statistical analysis, and data visualization. Prior to that, I worked as a freelancer in design and e-commerce.  
+### Я начинающий аналитик данных. Прошла профессиональную переподготовку по аналитике и базам данных в информационных системах, владею SQL, Python (pandas, numpy), статистическим анализом и визуализацией данных. До этого работала на фрилансе в дизайне и e-commerce. /I am a junior data analyst. I have completed professional retraining in data analytics and databases in information systems, and I have proficiency in SQL, Python (pandas, numpy), statistical analysis, and data visualization. Prior to that, I worked as a freelancer in design and e-commerce.  
   
 
 <br/>  
