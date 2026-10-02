@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 ### Добрый день. Меня зовут Ульяна /  Hello. My name is Uliana
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 
